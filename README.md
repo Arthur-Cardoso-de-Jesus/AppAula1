@@ -36,5 +36,6 @@
 
 <br></br>
 <hr>
+
 ### Autor:
- <a href="https://github.com/Arthur-Cardoso-de-Jesus"> **Arthur Cardoso de Jesus** </a> 
+<a href="https://github.com/Arthur-Cardoso-de-Jesus">  Arthur Cardoso de Jesus  </a>
