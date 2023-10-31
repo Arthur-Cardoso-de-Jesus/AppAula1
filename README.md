@@ -1,4 +1,4 @@
-# App calculadora<br>
+# App calculadora
 
 ## Sobre o projeto
 
