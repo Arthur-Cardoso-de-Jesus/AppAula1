@@ -15,7 +15,7 @@
 <a href=./Calculadora.apk>Download APK </a>
 
 ### Layout mobile:
-<a width=200px href=https://github.com/Arthur-Cardoso-de-Jesus/AppAula1/assets/83030989/7a5c2ad3-5b06-4c62-9519-a0f32a92f903> Download do APK </a>
+<img width=200px src="https://github.com/Arthur-Cardoso-de-Jesus/AppAula1/assets/83030989/7a5c2ad3-5b06-4c62-9519-a0f32a92f903">
 
 
 
